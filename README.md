@@ -49,16 +49,28 @@ DESIGN  →  BUILD  →  AUTOMATE  →  SCALE
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)](https://make.com)
 [![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com)
+[![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
+[![Lovable](https://img.shields.io/badge/Lovable-FF4B6E?style=for-the-badge&logoColor=white)](https://lovable.dev)
 
 **Platforms & CRM**
 
 [![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B35?style=for-the-badge&logoColor=white)](https://gohighlevel.com)
+[![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)](https://hubspot.com)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://salesforce.com)
+[![Instantly AI](https://img.shields.io/badge/Instantly_AI-6C47FF?style=for-the-badge&logoColor=white)](https://instantly.ai)
+[![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)](https://clickup.com)
 [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)](https://airtable.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.com)
 
 **Frontend & Web**
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -89,13 +101,10 @@ DESIGN  →  BUILD  →  AUTOMATE  →  SCALE
 
 ## Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasirbashir.com)
+[![Website](https://img.shields.io/badge/Website-yasirbashir.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasirbashir.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirbashiraiengineer/)
 [![Email](https://img.shields.io/badge/Email-hello@youremail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirbashirai@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/03446012505)
 
 ---
 
-*AI isn't slowing down. Take action 👇*  
-**📞 Book a 30-minute call with a free AI audit of your business.**  
-**👉 DM "SYSTEM" to see AI magic in action.**
