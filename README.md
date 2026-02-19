@@ -26,6 +26,11 @@ I help businesses design end-to-end AI-powered systems that don't just look good
 
 In the last **5 years**, I've helped **800+ businesses** move beyond basic solutions to real, solid systems that run, scale, and automate.
 
+✅ **2x faster growth** in 30 days  
+✅ **Predictable leads & bookings** — no more chasing  
+✅ **Cost savings** on human resources  
+✅ **Systems that run on autopilot** 24/7 
+
 ---
 
 ## My Proven 4-Step Blueprint for Growth
@@ -76,13 +81,7 @@ I design and build AI-powered systems that connect your tools, eliminate repetit
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
-
-## Results That Matter
-
-✅ **2x faster growth** in 30 days  
-✅ **Predictable leads & bookings** — no more chasing  
-✅ **Cost savings** on human resources  
-✅ **Systems that run on autopilot** 24/7  
+ 
 
 ---
 
