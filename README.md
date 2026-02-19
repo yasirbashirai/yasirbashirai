@@ -8,20 +8,9 @@ Building AI-powered business engines that work 24/7. No manual chaos. Just syste
 
 ---
 
-## The Problem Most Businesses Face
+## What I Do 💻
 
-```
-AI is taking over. Is your business ready?
-```
 
-If not, it's probably stuck with challenges like these — and most owners don't even realize the cost of ignoring them:
-
-❌ Systems stuck  
-❌ No consistent leads  
-❌ Missed opportunities  
-❌ Overwhelmed management  
-
-**I'm Yasir Bashir, your AI Growth Strategist.**  
 I help businesses design end-to-end AI-powered systems that don't just look good — they **work, sell, and scale**.
 
 In the last **5 years**, I've helped **800+ businesses** move beyond basic solutions to real, solid systems that run, scale, and automate.
@@ -48,13 +37,7 @@ DESIGN  →  BUILD  →  AUTOMATE  →  SCALE
 
 ---
 
-## What I Do
 
-```
-Business Problem  →  AI System  →  Automated Solution  →  Scale
-```
-
-I design and build AI-powered systems that connect your tools, eliminate repetitive tasks, and let you focus on growth — not operations.
 
 ---
 
